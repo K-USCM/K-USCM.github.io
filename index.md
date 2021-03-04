@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-수학, 플밍 질문받습니다.
+수학, 프로그래밍 질문받습니다.
 
 # Purpose
 
@@ -30,11 +30,13 @@ author_profile: true
 
 > 고민 없는 과제 질문은 지양합니다.
 
+---
+
 # Purpose
 
 목적은 질문을 받으며 개인 공부에 도움이 되기 위함입니다.
 
-* 프로그래밍 : [플밍 오픈채팅방](https://open.kakao.com/o/gOkNJF0c)
+* 프로그래밍 : [프로그래밍 오픈채팅방](https://open.kakao.com/o/gOkNJF0c)
 
 # Career
 
